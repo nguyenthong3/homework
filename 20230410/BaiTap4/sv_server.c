@@ -64,6 +64,7 @@ int main(int argc, char *argv[]) {
             }
             fprintf(file, "%s\n", buf);
             fclose(file);
+            printf("Thong tin sinh vien: %s\n", buf);
         }
     }
 }
