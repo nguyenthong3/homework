@@ -14,4 +14,4 @@ add_executable(homework
         20230417/BaiTap01.02/server.c
         20230417/BaiTap01.03/udp_file_receiver.c
         20230417/BaiTap01.03/udp_file_sender.c
-        practice/non_blocking.cpp)
+        practice/non_blocking/non_blocking.c 20230522/chat_client.c 20230522/chat_server.c)
